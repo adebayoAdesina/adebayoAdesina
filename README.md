@@ -18,8 +18,8 @@
 - ⚡ Fun fact: I love coding and solving problems. <br>
 - 💻 Language and Tools <br>
 <hr>
-  ![](https://visitor-badge.laobi.icu/badge?page_id=adebayoAdesina.adebayoAdesina) <br>
+  ![Tools](https://visitor-badge.laobi.icu/badge?page_id=adebayoAdesina.adebayoAdesina) <br>
 <hr>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight) <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adebayoAdesina&theme=tokyonight)
