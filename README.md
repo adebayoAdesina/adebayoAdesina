@@ -1,11 +1,7 @@
 ### Hi there  👋 I'm Adebayo but you can call me Bayo 😘
 <hr>
 🎓 I'm a student of SQI College of ICT(Software Developmnet dept) & Ladoke Akintola University Of Technology(Pure and Applied Physics dept).
-<!--
-**adebayoAdesina/adebayoAdesina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 <hr>
 - 🔭 I’m currently working on Cloned Instagram application with Flutter and Firebase.
 - 🌱 I’m currently learning Flutter.
