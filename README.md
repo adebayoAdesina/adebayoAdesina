@@ -24,7 +24,9 @@
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="40" style="vertical-align:top; margin:4px">
   </p>
 <hr>
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) 
+<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adebayoAdesina&theme=tokyonight&layout=compact)
 
-<p style="display: flex;"> <div> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) </div>
-
-<div> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adebayoAdesina&theme=tokyonight&layout=compact) </div></p>
+</p>
