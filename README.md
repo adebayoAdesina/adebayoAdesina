@@ -6,8 +6,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology.
 - 👯 I’m looking to collaborate on any frontend projects (Web or application development).
 - 🤔 I’m looking for help with an Intern in any TECH company or organization.
 <br/>
-![Metrics](https://metrics.lecoq.io/adebayoAdesina?template=classic&base.indepth=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=true&base.hireable=false&languages.ignored=html%2C%20css%2C%20ShaderLab%2C%20Jupyter%20Notebook%2C%20HLSL%2C%20SCSS&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FColombo&config.display=large)
-<br/>
+
 <details open>
 <summary> 
 Connect With Me 📫 
@@ -34,7 +33,12 @@ Connect With Me 📫
         <a href="mailto:adebayoadesina789@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
       </p>
 -->
-## - 💻 Language and Tools <br>
+
+<details open>
+<summary> 
+💻 Language and Tools
+</summary>
+<br>
   <p align="center">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
@@ -47,7 +51,7 @@ Connect With Me 📫
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="40" style="vertical-align:top; margin:4px">
   </p>
-
+</details>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) 
