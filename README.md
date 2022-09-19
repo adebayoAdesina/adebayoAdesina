@@ -9,7 +9,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology.
 
 <details open>
 <summary> 
-Connect With Me 📫 
+📫 Connect With Me  
 </summary>
 <br>
 
@@ -53,9 +53,14 @@ Connect With Me 📫
   </p>
 </details>
 
+<details close>
+<summary>
+Git Stats
+</summary>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) 
  <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adebayoAdesina&theme=tokyonight&layout=compact)
-
+</details>
