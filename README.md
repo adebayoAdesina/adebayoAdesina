@@ -1,5 +1,7 @@
 ### Hi there  👋 
-### I'm Adebayo😘
+<div>
+###  I'm Adebayo😘 <img align="right" src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="50">
+</div>
 Final year undergraduate student of Ladoke Akintola University of Technology.
 - 🎯 I’m currently focusing on Flutter, React Js, Java(SpringBoot), Vue Js and WordPress.
 - 🎓 Studied at SQI College Of ICT.
