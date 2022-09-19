@@ -1,7 +1,7 @@
 ### Hi there  👋 
-<div>
-###  I'm Adebayo😘 <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="50">
-</div>
+<h2>
+###  I'm Adebayo😘 <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="60">
+</h2>
 Final year undergraduate student of Ladoke Akintola University of Technology.
 - 🎯 I’m currently focusing on Flutter, React Js, Java(SpringBoot), Vue Js and WordPress.
 - 🎓 Studied at SQI College Of ICT.
@@ -55,10 +55,17 @@ Final year undergraduate student of Ladoke Akintola University of Technology.
   </p>
 </details>
 
+<details close>
+<summary> 
+🛠 Tools
+</summary>
+<br>
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="50"/>
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+</details>
+      
 <details close>
 <summary>
 Git Stats
