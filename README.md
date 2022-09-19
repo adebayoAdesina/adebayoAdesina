@@ -62,7 +62,6 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 <summary> 
 🛠 Tools
 </summary>
-<br/> 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="50"/> &nbsp;
@@ -73,12 +72,11 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 <summary>
 Git Stats
 </summary>
-<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) 
  <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adebayoAdesina&theme=tokyonight&layout=compact)
 </details>
 
-![Contributions](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)
-
+![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)
+<img src="https://img.shields.io/badge/-contributions_welcome-brightgreen.svg" />
