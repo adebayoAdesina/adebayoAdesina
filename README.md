@@ -43,7 +43,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 <br>
   <p align="center">
         
-        ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+       
         
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
@@ -57,6 +57,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="40" style="vertical-align:top; margin:4px">
         
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+         ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   </p>
 </details>
 
@@ -85,6 +86,7 @@ Git Stats
 </details>
 
 
-<div align="center"
+<div align="center">
+      <br/>
 ![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)
- </div>
+</div>
