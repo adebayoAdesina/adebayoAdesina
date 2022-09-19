@@ -50,9 +50,6 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="40" style="vertical-align:top; margin:4px">
- 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   </p>
 </details>
 
@@ -60,9 +57,13 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 <summary> 
 🛠 Tools
 </summary>
+      <br>
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+      
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+      
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="50"/>
+      
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 </details>
       
@@ -70,10 +71,11 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 <summary>
 Git Stats
 </summary>
+      <br>
+      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) 
  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adebayoAdesina&theme=tokyonight&layout=compact)
 </details>
 
-![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)
 <img src="https://img.shields.io/badge/-contributions_welcome-brightgreen.svg" />
