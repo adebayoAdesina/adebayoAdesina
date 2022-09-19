@@ -42,9 +42,6 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 </summary>
 <br>
   <p align="center">
-        
-       
-        
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" height="40" style="vertical-align:top; margin:4px">
@@ -65,8 +62,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 <summary> 
 🛠 Tools
 </summary>
-
-      
+<br/> 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="50"/> &nbsp;
@@ -77,8 +73,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 <summary>
 Git Stats
 </summary>
-
-
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) 
  <br>
 
@@ -87,6 +82,6 @@ Git Stats
 
 
 <div align="center">
-      <br/>
+<br/>
 ![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)
 </div>
