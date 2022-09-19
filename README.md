@@ -81,7 +81,7 @@ Git Stats
 </details>
 
 
-<div align="center">
+
 <br/>
 ![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)
-</div>
+
