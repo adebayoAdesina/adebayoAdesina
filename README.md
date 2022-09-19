@@ -8,6 +8,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 - 👯 I’m looking to collaborate on any frontend projects (Web or application development).<br/>
 - 🤔 I’m looking for help with an Intern in any TECH company or organization.
 <br/>
+<br/>
 
 <details open>
 <summary> 
@@ -22,7 +23,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17396574/adebayo-adesina)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adesin18)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ade.12345678910/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/.......)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adebayoadesina789/)
 
 </details>
 
