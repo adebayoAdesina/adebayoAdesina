@@ -16,7 +16,7 @@ Final year undergraduate student of Ladoke Akintola University of Technology. <b
 </summary>
 <br>
 
-[![WhatsApp]([https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white))](https://wa.me/2348140615129?text=Good day adebayoAdesina)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348140615129?text=Good day adebayoAdesina)
 [![Website](https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/adebayoAdesina)
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adebayoadesina789@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adebayo-adesina-547491206/)
