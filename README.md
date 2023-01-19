@@ -77,7 +77,11 @@ Git Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adebayoAdesina&theme=tokyonight&layout=compact)
 </details>
 
-<img src="https://img.shields.io/badge/-contributions_welcome-brightgreen.svg" />
+
 
 <br/>
+<p align="center">
 <img src="Images/coding.gif" />
+      <br/>
+      <img src="https://img.shields.io/badge/-contributions_welcome-brightgreen.svg" />
+      <p/>
