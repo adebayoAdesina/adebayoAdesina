@@ -79,4 +79,5 @@ Git Stats
 
 <img src="https://img.shields.io/badge/-contributions_welcome-brightgreen.svg" />
 
-<img src="https://assets3.lottiefiles.com/packages/lf20_iqcxim0l.json" />
+<br/>
+<img src="Images/coding.gif" />
