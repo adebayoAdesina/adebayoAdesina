@@ -2,8 +2,8 @@
 
 ### I'm Adebayo😘 <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="60">
 <br/>
-Final year undergraduate student of Ladoke Akintola University of Technology. <br/>
-- 🎯 I’m currently focusing on Flutter, React Js, Java, Vue Js and WordPress. <br/>
+Fresh graduate of Ladoke Akintola University of Technology. <br/>
+- 🎯 I’m currently focusing on Flutter, React Js, Javafx, Vue Js and WordPress. <br/>
 - 🎓 Studied at SQI College Of ICT. <br/>
 - 👯 I’m looking to collaborate on any frontend projects (Web or application development).<br/>
 - 🤔 I’m looking for remote work in any TECH company or organization.
