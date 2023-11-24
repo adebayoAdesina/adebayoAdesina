@@ -1,15 +1,20 @@
 ### Hi there  👋 
 
 ### I'm Adebayo😘 <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="60">
+</hr>
 <br/>
+#### Dedicated software Engineer from Nigeria
 Fresh graduate of Ladoke Akintola University of Technology. <br/>
-- 🎯 I’m currently focusing on Flutter, React Js, Javafx, Vue Js and WordPress. <br/>
+- 🎯 I’m currently focusing on Flutter, React Js, Java, Vue Js and WordPress. <br/>
 - 🎓 Studied at SQI College Of ICT. <br/>
 - 👯 I’m looking to collaborate on any frontend projects (Web or application development).<br/>
 - 🤔 I’m looking for remote work in any TECH company or organization.
 <br/>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adebayoAdesina&label=Profile%20views&color=0e75b6&style=flat" alt="adebayoAdesina" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebayoAdesina" alt="adebayoAdesina" /></a> </p>
+<br/>
+<br/>
 <details open>
 <summary> 
 📫 Connect With Me  
@@ -53,6 +58,11 @@ Fresh graduate of Ladoke Akintola University of Technology. <br/>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="40" style="vertical-align:top; margin:4px">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="vertical-align:top; margin:4px"/>
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="vertical-align:top; margin:4px"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="vertical-align:top; margin:4px"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:top; margin:4px"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="vertical-align:top; margin:4px"/>
   </p>
 </details>
 
