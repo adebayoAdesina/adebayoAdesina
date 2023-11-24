@@ -1,20 +1,15 @@
 ### Hi there  👋 
 
 ### I'm Adebayo😘 <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="60">
-</hr>
-<br/>
-#### Dedicated software Engineer from Nigeria
+<hr>
+### Dedicated software Engineer from Nigeria
 Fresh graduate of Ladoke Akintola University of Technology. <br/>
 - 🎯 I’m currently focusing on Flutter, React Js, Java, Vue Js and WordPress. <br/>
 - 🎓 Studied at SQI College Of ICT. <br/>
 - 👯 I’m looking to collaborate on any frontend projects (Web or application development).<br/>
 - 🤔 I’m looking for remote work in any TECH company or organization.
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adebayoAdesina&label=Profile%20views&color=0e75b6&style=flat" alt="adebayoAdesina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebayoAdesina" alt="adebayoAdesina" /></a> </p>
-<br/>
-<br/>
 <details open>
 <summary> 
 📫 Connect With Me  
@@ -81,6 +76,11 @@ Fresh graduate of Ladoke Akintola University of Technology. <br/>
 <summary>
 Git Stats
 </summary>
+      <br>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=adebayoAdesina&label=Profile%20views&color=0e75b6&style=flat" alt="adebayoAdesina" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebayoAdesina" alt="adebayoAdesina" /></a> </p>
+<br/>
       <br>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adebayoAdesina&show_icons=true&theme=tokyonight) 
