@@ -3,11 +3,11 @@
 ### I'm Adebayo😘 <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="60">
 
 <h6>Dedicated software Engineer from Nigeria</h6>
-Fresh graduate of Ladoke Akintola University of Technology. <br/>
-- 🎯 I’m currently focusing on Flutter, React Js, Java, Vue Js and WordPress. <br/>
+Graduated from Ladoke Akintola University of Technology. <br/>
+- 🎯 I’m currently focusing on Flutter, React Js, Java (Javafx and Springboot) and WordPress. <br/>
 - 🎓 Studied at SQI College Of ICT. <br/>
-- 👯 I’m looking to collaborate on any frontend projects (Web or application development).<br/>
-- 🤔 I’m looking for remote work in any TECH company or organization.
+- 👯 I’m looking to collaborate on any projects (Web or application development).<br/>
+- 👨‍💻 Open for Dev work.
 <br/>
 
 <details open>
