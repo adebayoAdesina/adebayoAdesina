@@ -58,6 +58,7 @@ Graduated from Ladoke Akintola University of Technology. <br/>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="vertical-align:top; margin:4px"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:top; margin:4px"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="vertical-align:top; margin:4px"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/java-original.svg" alt="java" width="40" height="40" style="vertical-align:top; margin:4px"/>
   </p>
 </details>
 
