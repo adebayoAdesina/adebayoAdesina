@@ -4,7 +4,7 @@
 
 <h6>Dedicated software Engineer from Nigeria</h6>
 Graduated from Ladoke Akintola University of Technology. <br/>
-- 🎯 I’m currently focusing on Flutter, React Js, Java (Javafx and Springboot) and WordPress. <br/>
+- 🎯 I’m currently focusing on Flutter, React Js, JavaScript, Typescript, Java (Javafx and Springboot) and WordPress. <br/>
 - 🎓 Studied at SQI College Of ICT. <br/>
 - 👯 I’m looking to collaborate on any projects (Web or application development).<br/>
 - 👨‍💻 Open for Dev work.
