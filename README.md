@@ -13,7 +13,7 @@ Graduated from Ladoke Akintola University of Technology. <br/>
 - 👯 I’m looking to collaborate on any projects (Web or application development).<br/>
 - 👨‍💻 Open for Dev work.
 </details>
-<br/>
+
 <details close>
 <summary> 
 📫 Connect With Me  
