@@ -14,8 +14,7 @@ Graduated from Ladoke Akintola University of Technology. <br/>
 - 👨‍💻 Open for Dev work.
 </details>
 <br/>
-
-<details open>
+<details close>
 <summary> 
 📫 Connect With Me  
 </summary>
