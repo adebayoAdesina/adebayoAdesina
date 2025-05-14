@@ -7,9 +7,10 @@
 <summary> 
 🗝️ Learn More About Me
 </summary>
-Graduated from Ladoke Akintola University of Technology. <br/>
+<!-- Graduated from Ladoke Akintola University of Technology. <br/> -->
 - 🎯 I’m currently focusing on Flutter, React Js, Next JS, JavaScript, Typescript, Java (Javafx and Springboot) and WordPress. <br/>
-- 🎓 Studied at SQI College Of ICT. <br/>
+- 🛡️ I’m currently learning ethical hacking and cybersecurity skills.
+- 🎓 Studied at SQI College Of ICT & LAUTECH. <br/>
 - 👯 I’m looking to collaborate on any projects (Web or application development).<br/>
 - 👨‍💻 Open for Dev work.
 </details>
