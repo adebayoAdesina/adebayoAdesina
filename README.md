@@ -1,6 +1,6 @@
 ### Hi there  👋 
 
-### I'm Adebayo😘 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQxcnBtbzZmZHVmem92MXhzc3k4ZTI4OXY2NGFiNmUzcHp6bjVveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gf675azxNAz2zDQ1vD/giphy.gif" width="60">
+### I'm Adebayo😘 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQxcnBtbzZmZHVmem92MXhzc3k4ZTI4OXY2NGFiNmUzcHp6bjVveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gf675azxNAz2zDQ1vD/giphy.gif" width="100">
 <!-- <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="60"> -->
 
 <h6>Dedicated software Engineer from Nigeria</h6>
