@@ -63,7 +63,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)" alt="csharp" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
       <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
         
         
