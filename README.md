@@ -76,10 +76,14 @@ Full-Stack Software Engineer building scalable web and mobile applications using
 </summary>
 <br>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348140615129)
 [![Website](https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adebayoadesina.netlify.app/)
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adebayoadesina789@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adebayo-adesina-547491206/)
+
+</div>
 
 <!--[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/.....)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17396574/adebayo-adesina)
@@ -103,7 +107,7 @@ Full-Stack Software Engineer building scalable web and mobile applications using
 <summary style="font-size: 1.3rem; font-weight: 700;">
 💻 Language
 </summary>
-  <p>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px; height: 40px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px; height: 40px;">
@@ -123,7 +127,7 @@ Full-Stack Software Engineer building scalable web and mobile applications using
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
             
-  </p>
+  </div>
 </details>
 
 <br>
