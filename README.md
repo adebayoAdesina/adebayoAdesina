@@ -4,17 +4,26 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="60"> -->
 
-<h6>Full-Stack Software Engineer building scalable web and mobile applications using React, Next.js, Flutter, and .NET — including real-world, revenue-generating platforms.</h6>
+Full-Stack Software Engineer building scalable web and mobile applications using React, Next.js, Flutter, and .NET including real-world, revenue-generating platforms.
 
-<details open>
-<summary style="font-size: 1.3rem; font-weight: 700;"> 
+<h3> 
 🗝️ About Me
-</summary>
-- 🚀 I build production-ready applications across web and mobile (e-commerce, POS systems, dashboards, betting platforms)<br/>
-- 💳 Experienced with payment integrations like Paystack and real-time systems<br/>
-- 🛠️ Core stack: React, Next.js, TypeScript, Flutter, .NET<br/>
-- 👨‍💻 Open to frontend, full-stack, and mobile development opportunities
-</details>
+</h3>
+<ul>
+<li>
+🚀 I build production-ready applications across web and mobile (e-commerce, POS systems, dashboards, betting platforms)
+</li>
+<li>
+💳 Experienced with payment integrations like Paystack and real-time systems
+</li>
+<li>
+🛠️ Core stack: React, Next.js, TypeScript, Flutter, .NET
+</li>
+<li>
+👨‍💻 Open to frontend, full-stack, and mobile development opportunities
+</li>
+</ul>
+
 <br/>
 
 <h3>
@@ -29,10 +38,10 @@
 | [wivali AI](https://www.wivali.ai/) | 🚌 Wivali landing page, Dashboard and also the website builder using VVWeb | React, Typescript, Tailwind CSS, Redux, Vanilla JavaScript |
 | [Okpools](https://github.com/CT-Labs-Software-Solutions/OkPools) | 🎫 Betting Platform Website Frontend with dashboards | React, TypeScript, PWA, Redux Toolkit, Tailwind CSS, ShadCn, Formik & Yup, Websocket  |
 <br/>
-<details open>
-<summary style="font-size: 1.3rem; font-weight: 700;"> 
+
+<h3 style="font-size: 1.3rem; font-weight: 700;"> 
 🛠️ Tech Stack
-</summary>
+</h3>
 <h6>Frontend</h6>
 <ul>
 <li>
@@ -59,7 +68,6 @@
     Firebase, Paystack, Git, REST APIs
 </li>
 </ul>
-</details>
 <br/>
 
 <details close>
@@ -95,7 +103,7 @@
 <summary style="font-size: 1.3rem; font-weight: 700;">
 💻 Language
 </summary>
-  <p align="center">
+  <p>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px; height: 40px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="vertical-align:top; margin:4px; height: 40px;"/>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px; height: 40px;">
