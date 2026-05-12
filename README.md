@@ -35,8 +35,9 @@ Full-Stack Software Engineer building scalable web and mobile applications using
 | [OYSAA](https://github.com/AFT-Solutions/Oysaa-Backend) | 🏥 Billboard management system for Oyo State Signage and Advertisement Agency (Oysaa) | C#, ASP.NET Core, PostgreSQL |
 | [Gbetpools Website](https://github.com/CT-Labs-Software-Solutions/gbetpool-website) | 🎫 Betting Platform Website Frontend with dashboards | React, TypeScript, PWA, Redux Toolkit, Tailwind CSS, ShadCn, Formik & Yup, Websocket  |
 | [Gbetpools Application](https://github.com/CT-Labs-Software-Solutions/gbetpool-website) | 🎫 Betting Platform Mobile Application with dashboards | Flutter, Provider, Dart |
-| [wivali AI](https://www.wivali.ai/) | 🚌 Wivali landing page, Dashboard and also the website builder using VVWeb | React, Typescript, Tailwind CSS, Redux, Vanilla JavaScript |
+| [wivali Website Builder](https://www.wivali.ai/) | 🚌 Wivali landing page, Dashboard and also the website builder using VVWeb | React, Typescript, Tailwind CSS, Redux, Vanilla JavaScript |
 | [Okpools](https://github.com/CT-Labs-Software-Solutions/OkPools) | 🎫 Betting Platform Website Frontend with dashboards | React, TypeScript, PWA, Redux Toolkit, Tailwind CSS, ShadCn, Formik & Yup, Websocket  |
+| [DES](https://github.com/adebayoAdesina/diverseeducationalservices) |  🌐 Cloning and improving DES blog website | ASP.NET Core, MSSQL, React, TypeScript, Redux Toolkit, Tailwind CSS, ShadCn  |
 <br/>
 
 <h3 style="font-size: 1.3rem; font-weight: 700;"> 
@@ -65,7 +66,7 @@ Full-Stack Software Engineer building scalable web and mobile applications using
 <h6>Tools & Services</h6>
 <ul>
 <li>
-    Firebase, Paystack, Git, REST APIs
+    Firebase, Git, REST APIs
 </li>
 </ul>
 <br/>
