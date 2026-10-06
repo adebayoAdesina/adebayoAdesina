@@ -40,7 +40,7 @@ I care about the parts that outlast the demo: clean architecture, secure APIs, a
 </h3>
 <ul>
 <li>
-💼 <b>Recruiters</b> — I'm open to <b>frontend, full-stack, and mobile</b> roles (remote or hybrid). Scroll to <a href="#-experience">Experience</a> for my track record.
+💼 <b>Recruiters</b> — I'm open to <b>backend, frontend, full-stack, and mobile</b> roles (remote, hybrid or on-site). Scroll to <a href="#-experience">Experience</a> for my track record.
 </li>
 <li>
 🤝 <b>Collaborators</b> — Got a product idea or an open-source project that needs a builder? I'd love to hear about it.
@@ -54,9 +54,10 @@ I care about the parts that outlast the demo: clean architecture, secure APIs, a
 
 
 
-<h3 style="font-size: 1.3rem; font-weight: 700;"> 
-🥞 Tech Stack
-</h3>
+<details>
+<summary><b><big>🥞 Tech Stack</big></b> <i>(click to expand)</i></summary>
+<br/>
+
 <h6>Frontend</h6>
 <p>
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -136,6 +137,8 @@ I care about the parts that outlast the demo: clean architecture, secure APIs, a
     <img alt="Caching" src="https://img.shields.io/badge/Caching-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
     <img alt="UI/UX Fundamentals" src="https://img.shields.io/badge/UI%2FUX%20Fundamentals-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+</details>
 <br/>
 
 <h3 id="-experience">
@@ -177,6 +180,7 @@ My [LinkedIn](https://www.linkedin.com/in/adebayo-adesina-547491206/) have it al
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [OYSAA](https://oysaa-ng.com/) | 🏥 Billboard management system for Oyo State Signage and Advertisement Agency (Oysaa) | C#, ASP.NET Core, MSSQL, Reddis |
+| [OGIVS](https://oyoguest.ng/) | 🪪 Oyo State government identification verification system (Oyoguest) | C#, ASP.NET Core, Postgres |
 | [Gbetpools Website](https://gbetpools.com/) | 🎫 Betting Platform Website Frontend with dashboards | React, TypeScript, PWA, Redux Toolkit, Tailwind CSS, ShadCn, Formik & Yup, Websocket  |
 | [Gbetpools Application](https://github.com/CT-Labs-Software-Solutions/gbetpool-website) | 🎫 Betting Platform Mobile Application with dashboards | Flutter, Provider, Dart |
 | [Wivali Website builder](https://www.wivali.ai/) | 🚌 Wivali landing page, Dashboard and also the website builder using VVWeb | React, Typescript, Tailwind CSS, Redux, Vanilla JavaScript |
